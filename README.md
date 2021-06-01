@@ -1,7 +1,7 @@
 # Description
 This is the official code repository for the following paper:
 
-Y. Jiang, S. Wang, V. Valls, B. J. Ko, W.-H. Lee, K. K. Leung, L. Tassiulas, "Model pruning enables efficient federated learning on edge devices", arXiv preprint arXiv:1909.12326 (2019).
+Y. Jiang, S. Wang, V. Valls, B. J. Ko, W.-H. Lee, K. K. Leung, L. Tassiulas, "Model pruning enables efficient federated learning on edge devices", preprint.
 
 This repository has some overlap with our model pruning library (https://github.com/jiangyuang/ModelPruningLibrary). However, this repository is for reproducing experiments from the paper only. We will not update this repository along with the model pruning library.
 
