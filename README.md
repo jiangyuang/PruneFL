@@ -1,23 +1,7 @@
 # Description
 This is the official code repository for the following paper:
 
-@article{DBLP:journals/corr/abs-1909-12326,
-  author    = {Yuang Jiang and
-               Shiqiang Wang and
-               Bong{-}Jun Ko and
-               Wei{-}Han Lee and
-               Leandros Tassiulas},
-  title     = {Model Pruning Enables Efficient Federated Learning on Edge Devices},
-  journal   = {CoRR},
-  volume    = {abs/1909.12326},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1909.12326},
-  archivePrefix = {arXiv},
-  eprint    = {1909.12326},
-  timestamp = {Mon, 22 Mar 2021 18:51:05 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1909-12326.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+Y. Jiang, S. Wang, V. Valls, B. J. Ko, W.-H. Lee, K. K. Leung, L. Tassiulas, "Model pruning enables efficient federated learning on edge devices", arXiv preprint arXiv:1909.12326 (2019).
 
 This repository has some overlap with our model pruning library (https://github.com/jiangyuang/ModelPruningLibrary). However, this repository is for reproducing experiments from the paper only. We will not update this repository along with the model pruning library.
 
