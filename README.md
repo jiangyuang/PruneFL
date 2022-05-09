@@ -1,7 +1,7 @@
 # Description
-This is the official code repository for the following paper:
+This is the official code repository for the following paper accepted at TNNLS 2022:
 
-Y. Jiang, S. Wang, V. Valls, B. J. Ko, W.-H. Lee, K. K. Leung, L. Tassiulas, "Model pruning enables efficient federated learning on edge devices", preprint.
+Jiang, Y., Wang, S., Valls, V., Ko, B. J., Lee, W. H., Leung, K. K., & Tassiulas, L. (2022). Model pruning enables efficient federated learning on edge devices. IEEE Transactions on Neural Networks and Learning Systems.
 
 This repository has some overlap with our model pruning library (https://github.com/jiangyuang/ModelPruningLibrary). However, this repository is for reproducing experiments from the paper only. We will not update this repository along with the model pruning library.
 
